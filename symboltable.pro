@@ -1,5 +1,4 @@
 % Aaron Shehan
-% ats0109
 
 
 cdr([X|Xs], Xs).
